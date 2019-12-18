@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Finanzmanagement</string>
+
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Stornieren</string>
+    <string name="valid">Gültig</string>
+    <string name="loading">Wird geladen</string>
+
+    <string name="error_occurred">Ein Fehler ist aufgetreten</string>
+
+    <string name="confirm_deletion_title">% 1 $ s löschen?</string>
+    <string name="confirm_transaction_deletion">Diese Transaktion wird von Ihrem Gerät gelöscht</string>
+    <string name="confirm_category_deletion">Diese Kategorie wird von Ihrem Gerät gelöscht</string>
+    <string name="confirm_budget_deletion">Dieses Budget wird von Ihrem Gerät gelöscht</string>
+
+    <string name="no_budget">Kein Budget</string>
+    <string name="no_transaction">Keine Transaktion</string>
+    <string name="no_history">Keine geschichte</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Titel</string>
+    <string name="color">Farbe</string>
+    <string name="icon">Symbol</string>
+    <string name="description">Beschreibung</string>
+    <string name="value">Wert</string>
+    <string name="category">Kategorie</string>
+    <string name="budgets">Budgets</string>
+    <string name="budget">Budget</string>
+    <string name="budget_label">Budget: %1$s</string>
+    <string name="no_default_budget">Kein Budget definiert</string>
+    <string name="default_budget">Standardbudget</string>
+
+    <string name="none">Keiner</string>
+    <string name="home">Zuhause</string>
+    <string name="transactions">Transaktionen</string>
+    <string name="categories">Kategorien</string>
+    <string name="history">Geschichte</string>
+    <string name="incomes">Einkommen</string>
+    <string name="expenses">Kosten</string>
+
+    <string name="add_transaction">Transaktion hinzufügen</string>
+    <string name="add_transaction_short">Transaktion hinzufügen</string>
+    <string name="add_category">Kategorie hinzufügen</string>
+    <string name="edit_transaction">Transaktion bearbeiten</string>
+    <string name="edit_category">Kategorie bearbeiten</string>
+    <string name="add_budget">Budget hinzufügen</string>
+    <string name="add_budget_short">Budget hinzufügen</string>
+    <string name="edit_budget">Budget bearbeiten</string>
+    <string name="set_category">Kategorie einstellen</string>
+    <string name="set_budget">Budget festlegen</string>
+    <string name="set_icon">Symbol festlegen</string>
+    <string name="no_empty_field">Dieses Feld kann nicht leer sein</string>
+
+    <string name="food">Essen</string>
+    <string name="dinner">Restaurant</string>
+    <string name="hobby">Hobby</string>
+    <string name="shopping">Einkaufen</string>
+    <string name="transport">Transport</string>
+</resources>

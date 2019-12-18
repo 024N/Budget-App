@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Управление бюджетом</string>
+
+    <string name="edit">редактировать</string>
+    <string name="delete">удалять</string>
+    <string name="cancel">отменить</string>
+    <string name="valid">действительный</string>
+    <string name="loading">загрузка</string>
+
+    <string name="error_occurred">Произошла ошибка</string>
+
+    <string name="confirm_deletion_title">Удалить% 1 $ s?</string>
+    <string name="confirm_transaction_deletion">Эта транзакция будет удалена с вашего устройства</string>
+    <string name="confirm_category_deletion">Эта категория будет удалена с вашего устройства</string>
+    <string name="confirm_budget_deletion">Этот бюджет будет удален с вашего устройства</string>
+
+    <string name="no_budget">Нет бюджета</string>
+    <string name="no_transaction">Нет транзакции</string>
+    <string name="no_history">Нет истории</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">заглавие</string>
+    <string name="color">цвет</string>
+    <string name="icon">Значок</string>
+    <string name="description">Описание</string>
+    <string name="value">Значение</string>
+    <string name="category">категория</string>
+    <string name="budgets">Бюджеты</string>
+    <string name="budget">бюджет</string>
+    <string name="budget_label">Бюджет: %1$s</string>
+    <string name="no_default_budget">Бюджет не определен</string>
+    <string name="default_budget">Бюджет по умолчанию</string>
+
+    <string name="none">Никто</string>
+    <string name="home">Главная</string>
+    <string name="transactions">операции</string>
+    <string name="categories">категории</string>
+    <string name="history">история</string>
+    <string name="incomes">доходов</string>
+    <string name="expenses">Расходы</string>
+
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="add_transaction_short">Добавить транзакцию</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="edit_transaction">Изменить транзакцию</string>
+    <string name="edit_category">Изменить категорию</string>
+    <string name="add_budget">Добавить бюджет</string>
+    <string name="add_budget_short">Добавить бюджет</string>
+    <string name="edit_budget">Изменить бюджет</string>
+    <string name="set_category">Установить категорию</string>
+    <string name="set_budget">Установить бюджет</string>
+    <string name="set_icon">Установить значок</string>
+    <string name="no_empty_field">Это поле не может быть пустым</string>
+
+    <string name="food">питание</string>
+    <string name="dinner">Ресторан</string>
+    <string name="hobby">Хобби</string>
+    <string name="shopping">Покупка</string>
+    <string name="transport">Транспорт</string>
+</resources>

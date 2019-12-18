@@ -1,0 +1,21 @@
+package oz.budget.management.util;
+
+import android.support.annotation.NonNull;
+import android.util.Log;
+
+public final class Logger {
+
+  public static void e(@NonNull String tag, @NonNull String... messages) {
+    if (tag.length() > 21) {
+      tag = tag.substring(0, 21);
+    }
+
+    StringBuilder sb = new StringBuilder();
+    for (int i = 0; i < messages.length; i++) {
+      sb.append(messages[i]);
+    }
+
+    String message = Thread.currentThread().getName() + ": " + sb.toString();
+    Log.e(tag, message);
+  }
+}

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Διαχείριση Προϋπολογισμού</string>
+
+    <string name="edit">Επεξεργασία</string>
+    <string name="delete">Διαγράφω</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="valid">Εγκυρος</string>
+    <string name="loading">Φόρτωση</string>
+
+    <string name="error_occurred">Παρουσιάστηκε σφάλμα</string>
+
+    <string name="confirm_deletion_title">Διαγραφή% 1 $ s;</string>
+    <string name="confirm_transaction_deletion">Αυτή η συναλλαγή θα διαγραφεί από τη συσκευή σας</string>
+    <string name="confirm_category_deletion">Αυτή η κατηγορία θα διαγραφεί από τη συσκευή σας</string>
+    <string name="confirm_budget_deletion">Αυτός ο προϋπολογισμός θα διαγραφεί από τη συσκευή σας</string>
+
+    <string name="no_budget">Δεν υπάρχει προϋπολογισμός</string>
+    <string name="no_transaction">Καμία συναλλαγή</string>
+    <string name="no_history">Δεν υπάρχει ιστορικό</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Τίτλος</string>
+    <string name="color">Χρώμα</string>
+    <string name="icon">Εικόνισμα</string>
+    <string name="description">Περιγραφή</string>
+    <string name="value">αξία</string>
+    <string name="category">Κατηγορία</string>
+    <string name="budgets">Προϋπολογισμοί</string>
+    <string name="budget">Προϋπολογισμός</string>
+    <string name="budget_label">Προϋπολογισμός: %1$s</string>
+    <string name="no_default_budget">Δεν έχει καθοριστεί προϋπολογισμός</string>
+    <string name="default_budget">Προεπιλεγμένος προϋπολογισμός</string>
+
+    <string name="none">Κανένας</string>
+    <string name="home">Σπίτι</string>
+    <string name="transactions">Συναλλαγές</string>
+    <string name="categories">Κατηγορίες</string>
+    <string name="history">Ιστορία</string>
+    <string name="incomes">Έσοδα</string>
+    <string name="expenses">Εξοδα</string>
+
+    <string name="add_transaction">Προσθήκη συναλλαγής</string>
+    <string name="add_transaction_short">Προσθήκη συναλλαγής</string>
+    <string name="add_category">Προσθήκη κατηγορίας</string>
+    <string name="edit_transaction">Επεξεργασία συναλλαγής</string>
+    <string name="edit_category">Επεξεργασία κατηγορίας</string>
+    <string name="add_budget">Προσθέστε τον προϋπολογισμό</string>
+    <string name="add_budget_short">Προσθέστε τον προϋπολογισμό</string>
+    <string name="edit_budget">Επεξεργασία προϋπολογισμού</string>
+    <string name="set_category">Ορισμός κατηγορίας</string>
+    <string name="set_budget">Ορίστε τον προϋπολογισμό</string>
+    <string name="set_icon">Ορισμός εικονιδίου</string>
+    <string name="no_empty_field">Αυτό το πεδίο δεν μπορεί να είναι άδειο</string>
+
+    <string name="food">Φαγητό</string>
+    <string name="dinner">Εστιατόριο</string>
+    <string name="hobby">Χόμπι</string>
+    <string name="shopping">Ψώνια</string>
+    <string name="transport">Μεταφορά</string>
+</resources>

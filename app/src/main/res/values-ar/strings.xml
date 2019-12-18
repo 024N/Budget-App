@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">إدارة الميزانية</string>
+
+    <string name="edit">تصحيح</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="valid">صالح</string>
+    <string name="loading">جار التحميل</string>
+
+    <string name="error_occurred">حدث خطأ</string>
+
+    <string name="confirm_deletion_title">حذف٪ 1 $ s؟</string>
+    <string name="confirm_transaction_deletion">سيتم حذف هذه المعاملة من جهازك</string>
+    <string name="confirm_category_deletion">سيتم حذف هذه الفئة من جهازك</string>
+    <string name="confirm_budget_deletion">سيتم حذف هذه الميزانية من جهازك</string>
+
+    <string name="no_budget">لا ميزانية</string>
+    <string name="no_transaction">لا توجد صفقة</string>
+    <string name="no_history">لا تاريخ</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">عنوان</string>
+    <string name="color">اللون</string>
+    <string name="icon">أيقونة</string>
+    <string name="description">وصف</string>
+    <string name="value">القيمة</string>
+    <string name="category">الفئة</string>
+    <string name="budgets">الميزانيات</string>
+    <string name="budget">ميزانية</string>
+    <string name="budget_label">الميزانية: %1$s</string>
+    <string name="no_default_budget">لا يوجد ميزانية محددة</string>
+    <string name="default_budget">الميزانية الافتراضية</string>
+
+    <string name="none">لا شيء</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="transactions">المعاملات</string>
+    <string name="categories">الاقسام</string>
+    <string name="history">التاريخ</string>
+    <string name="incomes">الدخل</string>
+    <string name="expenses">نفقات</string>
+
+    <string name="add_transaction">إضافة المعاملة</string>
+    <string name="add_transaction_short">إضافة المعاملة</string>
+    <string name="add_category">إضافة فئة</string>
+    <string name="edit_transaction">تحرير المعاملة</string>
+    <string name="edit_category">تحرير الفئة</string>
+    <string name="add_budget">أضف ميزانية</string>
+    <string name="add_budget_short">أضف ميزانية</string>
+    <string name="edit_budget">تحرير الميزانية</string>
+    <string name="set_category">مجموعة الفئة</string>
+    <string name="set_budget">تعيين الميزانية</string>
+    <string name="set_icon">ضبط أيقونة</string>
+    <string name="no_empty_field">هذا الحقل لا يمكن ان يكون فارغا</string>
+
+    <string name="food">طعام</string>
+    <string name="dinner">مطعم</string>
+    <string name="hobby">هواية</string>
+    <string name="shopping">التسوق</string>
+    <string name="transport">المواصلات</string>
+</resources>
+
+

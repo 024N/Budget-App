@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">예산 관리</string>
+
+    <string name="edit">편집하다</string>
+    <string name="delete">지우다</string>
+    <string name="cancel">취소</string>
+    <string name="valid">유효한</string>
+    <string name="loading">로드 중</string>
+
+    <string name="error_occurred">오류가 발생했습니다</string>
+
+    <string name="confirm_deletion_title">% 1 $ s을 (를) 삭제 하시겠습니까?</string>
+    <string name="confirm_transaction_deletion">이 거래가 기기에서 삭제됩니다.</string>
+    <string name="confirm_category_deletion">이 카테고리는 기기에서 삭제됩니다.</string>
+    <string name="confirm_budget_deletion">이 예산은 기기에서 삭제됩니다.</string>
+
+    <string name="no_budget">예산 없음</string>
+    <string name="no_transaction">거래 없음</string>
+    <string name="no_history">역사 없음</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">표제</string>
+    <string name="color">색깔</string>
+    <string name="icon">상</string>
+    <string name="description">기술</string>
+    <string name="value">값</string>
+    <string name="category">범주</string>
+    <string name="budgets">예산</string>
+    <string name="budget">예산</string>
+    <string name="budget_label">예산 : %1$s</string>
+    <string name="no_default_budget">예산이 정의되지 않았습니다.</string>
+    <string name="default_budget">기본 예산</string>
+
+    <string name="none">없음</string>
+    <string name="home">집</string>
+    <string name="transactions">업무</string>
+    <string name="categories">카테고리</string>
+    <string name="history">역사</string>
+    <string name="incomes">소득</string>
+    <string name="expenses">경비</string>
+
+    <string name="add_transaction">거래 추가</string>
+    <string name="add_transaction_short">거래 추가</string>
+    <string name="add_category">카테고리 추가</string>
+    <string name="edit_transaction">거래 수정</string>
+    <string name="edit_category">카테고리 수정</string>
+    <string name="add_budget">예산 추가</string>
+    <string name="add_budget_short">예산 추가</string>
+    <string name="edit_budget">예산 수정</string>
+    <string name="set_category">범주 설정</string>
+    <string name="set_budget">예산 설정</string>
+    <string name="set_icon">아이콘 설정</string>
+    <string name="no_empty_field">이 입력란은 비워 둘 수 없습니다.</string>
+
+    <string name="food">식품</string>
+    <string name="dinner">레스토랑</string>
+    <string name="hobby">취미</string>
+    <string name="shopping">쇼핑</string>
+    <string name="transport">수송</string>
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">预算管理</string>
+
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="valid">有效</string>
+    <string name="loading">载入中</string>
+
+    <string name="error_occurred">发生错误</string>
+
+    <string name="confirm_deletion_title">删除％1 $ s？</string>
+    <string name="confirm_transaction_deletion">此交易将从您的设备中删除</string>
+    <string name="confirm_category_deletion">此类别将从您的设备中删除</string>
+    <string name="confirm_budget_deletion">此预算将从您的设备中删除</string>
+
+    <string name="no_budget">没有预算</string>
+    <string name="no_transaction">没有交易</string>
+    <string name="no_history">没有历史</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">标题</string>
+    <string name="color">颜色</string>
+    <string name="icon">图标</string>
+    <string name="description">描述</string>
+    <string name="value">值</string>
+    <string name="category">类别</string>
+    <string name="budgets">预算</string>
+    <string name="budget">预算</string>
+    <string name="budget_label">预算: %1$s</string>
+    <string name="no_default_budget">没有预算定义</string>
+    <string name="default_budget">默认预算</string>
+
+    <string name="none">没有</string>
+    <string name="home">家</string>
+    <string name="transactions">交易</string>
+    <string name="categories">分类</string>
+    <string name="history">历史</string>
+    <string name="incomes">收入</string>
+    <string name="expenses">花费</string>
+
+    <string name="add_transaction">添加交易</string>
+    <string name="add_transaction_short">添加交易</string>
+    <string name="add_category">添加类别</string>
+    <string name="edit_transaction">编辑交易</string>
+    <string name="edit_category">编辑类别</string>
+    <string name="add_budget">添加预算</string>
+    <string name="add_budget_short">添加预算</string>
+    <string name="edit_budget">编辑预算</string>
+    <string name="set_category">设置类别</string>
+    <string name="set_budget">设定预算</string>
+    <string name="set_icon">设置图标</string>
+    <string name="no_empty_field">此字段不能为空</string>
+
+    <string name="food">餐饮</string>
+    <string name="dinner">餐厅</string>
+    <string name="hobby">爱好</string>
+    <string name="shopping">购物</string>
+    <string name="transport">运输</string>
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Управління бюджетом</string>
+
+    <string name="edit">Редагувати</string>
+    <string name="delete">Видалити</string>
+    <string name="cancel">Скасувати</string>
+    <string name="valid">Дійсний</string>
+    <string name="loading">Завантаження</string>
+
+    <string name="error_occurred">Виникла помилка</string>
+
+    <string name="confirm_deletion_title">Видалити% 1 $ s?</string>
+    <string name="confirm_transaction_deletion">Цю транзакцію буде видалено з вашого пристрою</string>
+    <string name="confirm_category_deletion">Цю категорію буде видалено з вашого пристрою</string>
+    <string name="confirm_budget_deletion">Цей бюджет буде видалено з вашого пристрою</string>
+
+    <string name="no_budget">Немає бюджету</string>
+    <string name="no_transaction">Немає транзакцій</string>
+    <string name="no_history">Немає історії</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Назва</string>
+    <string name="color">Колір</string>
+    <string name="icon">Значок</string>
+    <string name="description">Опис</string>
+    <string name="value">Значення</string>
+    <string name="category">Категорія</string>
+    <string name="budgets">Бюджети</string>
+    <string name="budget">Бюджет</string>
+    <string name="budget_label">Бюджет: %1$s</string>
+    <string name="no_default_budget">Не визначено бюджету</string>
+    <string name="default_budget">Стандартний бюджет</string>
+
+    <string name="none">Немає</string>
+    <string name="home">Головна</string>
+    <string name="transactions">Операції</string>
+    <string name="categories">Категорії</string>
+    <string name="history">Історія</string>
+    <string name="incomes">Доходи</string>
+    <string name="expenses">Витрати</string>
+
+    <string name="add_transaction">Додати транзакцію</string>
+    <string name="add_transaction_short">Додати транзакцію</string>
+    <string name="add_category">Додати категорію</string>
+    <string name="edit_transaction">Редагувати транзакцію</string>
+    <string name="edit_category">Редагувати категорію</string>
+    <string name="add_budget">Додайте бюджет</string>
+    <string name="add_budget_short">Додайте бюджет</string>
+    <string name="edit_budget">Змінити бюджет</string>
+    <string name="set_category">Встановити категорію</string>
+    <string name="set_budget">Встановіть бюджет</string>
+    <string name="set_icon">Встановити значок</string>
+    <string name="no_empty_field">Це поле не може бути порожнім</string>
+
+    <string name="food">Їжа</string>
+    <string name="dinner">Ресторан</string>
+    <string name="hobby">Хобі</string>
+    <string name="shopping">Покупки</string>
+    <string name="transport">Транспорт</string>
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Manajemen Anggaran</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Menghapus</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="valid">Sah</string>
+    <string name="loading">Pemuatan</string>
+
+    <string name="error_occurred">Terjadi kesalahan</string>
+
+    <string name="confirm_deletion_title">Hapus% 1 $ s?</string>
+    <string name="confirm_transaction_deletion">Transaksi ini akan dihapus dari perangkat Anda</string>
+    <string name="confirm_category_deletion">Kategori ini akan dihapus dari perangkat Anda</string>
+    <string name="confirm_budget_deletion">Anggaran ini akan dihapus dari perangkat Anda</string>
+
+    <string name="no_budget">Tanpa anggaran</string>
+    <string name="no_transaction">Tidak ada transaksi</string>
+    <string name="no_history">Tidak ada sejarah</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Judul</string>
+    <string name="color">Warna</string>
+    <string name="icon">Ikon</string>
+    <string name="description">Deskripsi</string>
+    <string name="value">Nilai</string>
+    <string name="category">Kategori</string>
+    <string name="budgets">Anggaran</string>
+    <string name="budget">Anggaran</string>
+    <string name="budget_label">Anggaran: %1$s</string>
+    <string name="no_default_budget">Tidak ada anggaran yang ditentukan</string>
+    <string name="default_budget">Anggaran bawaan</string>
+
+    <string name="none">Tidak ada</string>
+    <string name="home">Rumah</string>
+    <string name="transactions">Transaksi</string>
+    <string name="categories">Kategori</string>
+    <string name="history">Sejarah</string>
+    <string name="incomes">Penghasilan</string>
+    <string name="expenses">Beban</string>
+
+    <string name="add_transaction">Tambahkan transaksi</string>
+    <string name="add_transaction_short">Tambahkan transaksi</string>
+    <string name="add_category">Tambahkan kategori</string>
+    <string name="edit_transaction">Edit transaksi</string>
+    <string name="edit_category">Edit kategori</string>
+    <string name="add_budget">Tambahkan anggaran</string>
+    <string name="add_budget_short">Tambahkan anggaran</string>
+    <string name="edit_budget">Edit anggaran</string>
+    <string name="set_category">Setel kategori</string>
+    <string name="set_budget">Tetapkan anggaran</string>
+    <string name="set_icon">Setel ikon</string>
+    <string name="no_empty_field">Bidang ini tidak boleh kosong</string>
+
+    <string name="food">Makanan</string>
+    <string name="dinner">Restoran</string>
+    <string name="hobby">Hobi</string>
+    <string name="shopping">Perbelanjaan</string>
+    <string name="transport">Mengangkut</string>
+</resources>

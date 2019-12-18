@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#E8009688</color>
+    <color name="colorAccent">#000004</color>
+
+    <color name="backgroundHeader">#FAFAFA</color>
+    <color name="backgroundItem">#FFF</color>
+
+    <color name="text">#1F1F1F</color>
+    <color name="secondary_text">#6D6D6D</color>
+    <color name="icon">#6D6D6D</color>
+    <color name="disabled">#939393</color>
+    <color name="divider">#E6E6E6</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="red">#D32F2F</color>
+    <color name="blue">#3f51b5</color>
+
+    <color name="category_food">#2196f3</color>
+    <color name="category_diner">#009688</color>
+    <color name="category_hobby">#f44336</color>
+    <color name="category_shopping">#ff9800</color>
+    <color name="category_transport">#9c27b0</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_transparent">#6d484444</color>
+    <color name="red_transparent">#6dfc0000</color>
+
+    <color name="posts">#54CAD3</color>
+    <color name="answers">#3DAEEC</color>
+    <color name="myProfileHeadings">#3797CF</color>
+    <color name="grey">#E5E5E5</color>
+
+    <color name="light_grey">#f4f4f4</color>
+
+    <color name="toast">#c45d5d</color>
+    <color name="white_transparent">#a4ffffff</color>
+    <color name="gradientStart_transparent">#8c19aa8b</color>
+    <color name="gradientStop_transparent">#8c23a7d8</color>
+
+    <color name="colorPrimary2">#19AA8B</color>
+    <color name="colorPrimaryDark2">#19AA8B</color>
+    <color name="colorAccent2">#FFFFFF</color>
+
+
+    <color name="bluelight">#49acd5</color>
+    <color name="green2">#45bc62</color>
+    <color name="orange">#eaad43</color>
+    <color name="blacklight">#2f333f</color>
+
+
+    <color name="gradientStart">#19AA8B</color>
+    <color name="gradientStop">#23A7D8</color>
+
+    <color name="primaryDarker">#169378</color>
+    <color name="backgroundColor">#eedd82</color>
+    <color name="ButtonColor">#ffcc00</color>
+
+    <color name="darkgray">#6c6c6c</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorMild">#9d9c9c</color>
+    <color name="colorDivider">#eae6e6</color>
+
+    <color name="colorPrimary3">#49BEFF</color>
+    <color name="colorPrimaryDark3">#65DCE5</color>
+    <color name="colorAccent3">#0D5D98</color>
+
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+</resources>
+

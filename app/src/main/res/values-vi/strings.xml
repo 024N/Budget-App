@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quản lý ngân sách</string>
+
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="valid">Có hiệu lực</string>
+    <string name="loading">Tải</string>
+
+    <string name="error_occurred">Xảy ra lỗi</string>
+
+    <string name="confirm_deletion_title">Xóa% 1 $ s?</string>
+    <string name="confirm_transaction_deletion">Giao dịch này sẽ bị xóa khỏi thiết bị của bạn</string>
+    <string name="confirm_category_deletion">Danh mục này sẽ bị xóa khỏi thiết bị của bạn</string>
+    <string name="confirm_budget_deletion">Ngân sách này sẽ bị xóa khỏi thiết bị của bạn</string>
+
+    <string name="no_budget">Không có ngân sách</string>
+    <string name="no_transaction">Không có giao dịch</string>
+    <string name="no_history">Không có lịch sử</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Chức vụ</string>
+    <string name="color">Màu</string>
+    <string name="icon">Biểu tượng</string>
+    <string name="description">Sự miêu tả</string>
+    <string name="value">Giá trị</string>
+    <string name="category">thể loại</string>
+    <string name="budgets">Ngân sách</string>
+    <string name="budget">Ngân sách</string>
+    <string name="budget_label">Ngân sách: %1$s</string>
+    <string name="no_default_budget">Không có ngân sách xác định</string>
+    <string name="default_budget">Ngân sách mặc định</string>
+
+    <string name="none">không ai</string>
+    <string name="home">Nhà</string>
+    <string name="transactions">Giao dịch</string>
+    <string name="categories">Thể loại</string>
+    <string name="history">Lịch sử</string>
+    <string name="incomes">Thu nhập</string>
+    <string name="expenses">Chi phí</string>
+
+    <string name="add_transaction">Thêm giao dịch</string>
+    <string name="add_transaction_short">Thêm giao dịch</string>
+    <string name="add_category">Thêm thể loại</string>
+    <string name="edit_transaction">Chỉnh sửa giao dịch</string>
+    <string name="edit_category">Chỉnh sửa danh mục</string>
+    <string name="add_budget">Thêm ngân sách</string>
+    <string name="add_budget_short">Thêm ngân sách</string>
+    <string name="edit_budget">Chỉnh sửa ngân sách</string>
+    <string name="set_category">Đặt thể loại</string>
+    <string name="set_budget">Đặt ngân sách</string>
+    <string name="set_icon">Đặt biểu tượng</string>
+    <string name="no_empty_field">Trường này không thể để trống</string>
+
+    <string name="food">Món ăn</string>
+    <string name="dinner">Nhà hàng</string>
+    <string name="hobby">Sở thích</string>
+    <string name="shopping">Mua sắm</string>
+    <string name="transport">Vận chuyển</string>
+</resources>

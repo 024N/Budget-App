@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">予算管理</string>
+
+    <string name="edit">編集する</string>
+    <string name="delete">削除する</string>
+    <string name="cancel">キャンセル</string>
+    <string name="valid">有効</string>
+    <string name="loading">ロード中</string>
+
+    <string name="error_occurred">エラーが発生しました</string>
+
+    <string name="confirm_deletion_title">％1 $ sを削除しますか？</string>
+    <string name="confirm_transaction_deletion">この取引はあなたの端末から削除されます</string>
+    <string name="confirm_category_deletion">このカテゴリはあなたのデバイスから削除されます</string>
+    <string name="confirm_budget_deletion">この予算はあなたの端末から削除されます</string>
+
+    <string name="no_budget">予算なし</string>
+    <string name="no_transaction">取引なし</string>
+    <string name="no_history">歴史なし</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">タイトル</string>
+    <string name="color">色</string>
+    <string name="icon">アイコン</string>
+    <string name="description">説明</string>
+    <string name="value">値</string>
+    <string name="category">カテゴリー</string>
+    <string name="budgets">予算</string>
+    <string name="budget">予算</string>
+    <string name="budget_label">予算: %1$s</string>
+    <string name="no_default_budget">予算が定義されていません</string>
+    <string name="default_budget">デフォルト予算</string>
+
+    <string name="none">無し</string>
+    <string name="home">ホーム</string>
+    <string name="transactions">トランザクション</string>
+    <string name="categories">カテゴリー</string>
+    <string name="history">歴史</string>
+    <string name="incomes">所得</string>
+    <string name="expenses">経費</string>
+
+    <string name="add_transaction">トランザクションを追加</string>
+    <string name="add_transaction_short">トランザクションを追加</string>
+    <string name="add_category">カテゴリを追加</string>
+    <string name="edit_transaction">取引を編集</string>
+    <string name="edit_category">カテゴリを編集</string>
+    <string name="add_budget">予算を追加</string>
+    <string name="add_budget_short">予算を追加</string>
+    <string name="edit_budget">予算を編集</string>
+    <string name="set_category">カテゴリーを設定</string>
+    <string name="set_budget">予算を設定</string>
+    <string name="set_icon">設定アイコン</string>
+    <string name="no_empty_field">このフィールドは空にできません</string>
+
+    <string name="food">フード</string>
+    <string name="dinner">レストラン</string>
+    <string name="hobby">趣味</string>
+    <string name="shopping">ショッピング</string>
+    <string name="transport">輸送</string>
+</resources>

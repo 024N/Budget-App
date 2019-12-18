@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Bütçe yönetimi</string>
+
+    <string name="edit">Düzenle</string>
+    <string name="delete">silmek</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="valid">Geçerli</string>
+    <string name="loading">Yükleniyor</string>
+
+    <string name="error_occurred">Bir hata oluştu</string>
+
+    <string name="confirm_deletion_title">% 1 $ s silinir mi?</string>
+    <string name="confirm_transaction_deletion">Bu işlem cihazınızdan silinecek</string>
+    <string name="confirm_category_deletion">Bu kategori cihazınızdan silinecek</string>
+    <string name="confirm_budget_deletion">Bu bütçe cihazınızdan silinecek</string>
+
+    <string name="no_budget">Bütçe yok</string>
+    <string name="no_transaction">İşlem yok</string>
+    <string name="no_history">Tarih yok</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Başlık</string>
+    <string name="color">Renk</string>
+    <string name="icon">ikon</string>
+    <string name="description">Açıklama</string>
+    <string name="value">değer</string>
+    <string name="category">Kategori</string>
+    <string name="budgets">Bütçeler</string>
+    <string name="budget">Bütçe</string>
+    <string name="budget_label">Bütçe: %1$s</string>
+    <string name="no_default_budget">Bütçe tanımlanmadı</string>
+    <string name="default_budget">Varsayılan bütçe</string>
+
+    <string name="none">Yok</string>
+    <string name="home">Ev</string>
+    <string name="transactions">işlemler</string>
+    <string name="categories">Kategoriler</string>
+    <string name="history">Tarihçe</string>
+    <string name="incomes">Gelirleri</string>
+    <string name="expenses">giderler</string>
+
+    <string name="add_transaction">İşlem ekle</string>
+    <string name="add_transaction_short">İşlem ekle</string>
+    <string name="add_category">Kategori ekle</string>
+    <string name="edit_transaction">İşlemi düzenle</string>
+    <string name="edit_category">Kategori düzenle</string>
+    <string name="add_budget">Bütçe ekle</string>
+    <string name="add_budget_short">Bütçe ekle</string>
+    <string name="edit_budget">Bütçeyi düzenle</string>
+    <string name="set_category">Kategori ayarla</string>
+    <string name="set_budget">Bütçeyi ayarla</string>
+    <string name="set_icon">Icon set</string>
+    <string name="no_empty_field">Bu alan boş olamaz</string>
+
+    <string name="food">Gıda</string>
+    <string name="dinner">Restoran</string>
+    <string name="hobby">Hobi</string>
+    <string name="shopping">Alışveriş yapmak</string>
+    <string name="transport">taşıma</string>
+</resources>

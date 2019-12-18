@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">การจัดการงบประมาณ</string>
+
+    <string name="edit">แก้ไข</string>
+    <string name="delete">ลบ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="valid">ถูกต้อง</string>
+    <string name="loading">กำลังโหลด</string>
+
+    <string name="error_occurred">เกิดข้อผิดพลาด</string>
+
+    <string name="confirm_deletion_title">ลบ% 1 $ s หรือไม่</string>
+    <string name="confirm_transaction_deletion">ธุรกรรมนี้จะถูกลบออกจากอุปกรณ์ของคุณ</string>
+    <string name="confirm_category_deletion">หมวดหมู่นี้จะถูกลบออกจากอุปกรณ์ของคุณ</string>
+    <string name="confirm_budget_deletion">งบประมาณนี้จะถูกลบออกจากอุปกรณ์ของคุณ</string>
+
+    <string name="no_budget">ไม่มีงบประมาณ</string>
+    <string name="no_transaction">ไม่มีการทำธุรกรรม</string>
+    <string name="no_history">ไม่มีประวัติ</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">หัวข้อ</string>
+    <string name="color">สี</string>
+    <string name="icon">ไอคอน</string>
+    <string name="description">ลักษณะ</string>
+    <string name="value">ราคา</string>
+    <string name="category">ประเภท</string>
+    <string name="budgets">งบประมาณ</string>
+    <string name="budget">งบ</string>
+    <string name="budget_label">งบประมาณ: %1$s</string>
+    <string name="no_default_budget">ไม่มีการกำหนดงบประมาณ</string>
+    <string name="default_budget">งบประมาณเริ่มต้น</string>
+
+    <string name="none">ไม่มี</string>
+    <string name="home">บ้าน</string>
+    <string name="transactions">การทำธุรกรรม</string>
+    <string name="categories">หมวดหมู่</string>
+    <string name="history">ประวัติศาสตร์</string>
+    <string name="incomes">รายได้</string>
+    <string name="expenses">รายจ่าย</string>
+
+    <string name="add_transaction">เพิ่มการทำธุรกรรม</string>
+    <string name="add_transaction_short">เพิ่มการทำธุรกรรม</string>
+    <string name="add_category">เพิ่มหมวดหมู่</string>
+    <string name="edit_transaction">แก้ไขการทำธุรกรรม</string>
+    <string name="edit_category">แก้ไขหมวดหมู่</string>
+    <string name="add_budget">เพิ่มงบประมาณ</string>
+    <string name="add_budget_short">เพิ่มงบประมาณ</string>
+    <string name="edit_budget">แก้ไขงบประมาณ</string>
+    <string name="set_category">ตั้งหมวดหมู่</string>
+    <string name="set_budget">กำหนดงบประมาณ</string>
+    <string name="set_icon">ตั้งค่าไอคอน</string>
+    <string name="no_empty_field">ฟิลด์นี้ต้องไม่ว่างเปล่า</string>
+
+    <string name="food">อาหาร</string>
+    <string name="dinner">ร้านอาหาร</string>
+    <string name="hobby">งานอดิเรก</string>
+    <string name="shopping">ช้อปปิ้ง</string>
+    <string name="transport">ขนส่ง</string>
+</resources>

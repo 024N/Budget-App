@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Budgethantering</string>
+
+    <string name="edit">Redigera</string>
+    <string name="delete">Radera</string>
+    <string name="cancel">Annullera</string>
+    <string name="valid">Giltig</string>
+    <string name="loading">Läser in</string>
+
+    <string name="error_occurred">Ett fel uppstod</string>
+
+    <string name="confirm_deletion_title">Ta bort% 1 $ s?</string>
+    <string name="confirm_transaction_deletion">Denna transaktion raderas från din enhet</string>
+    <string name="confirm_category_deletion">Den här kategorin kommer raderas från din enhet</string>
+    <string name="confirm_budget_deletion">Den här budgeten tas bort från din enhet</string>
+
+    <string name="no_budget">Ingen budget</string>
+    <string name="no_transaction">Ingen transaktion</string>
+    <string name="no_history">Ingen historia</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">Titel</string>
+    <string name="color">Färg</string>
+    <string name="icon">Ikon</string>
+    <string name="description">Beskrivning</string>
+    <string name="value">Värde</string>
+    <string name="category">Kategori</string>
+    <string name="budgets">budgetar</string>
+    <string name="budget">Budget</string>
+    <string name="budget_label">Budget: %1$s</string>
+    <string name="no_default_budget">Ingen budget definierad</string>
+    <string name="default_budget">Standardbudget</string>
+
+    <string name="none">Ingen</string>
+    <string name="home">Hem</string>
+    <string name="transactions">transaktioner</string>
+    <string name="categories">kategorier</string>
+    <string name="history">Historia</string>
+    <string name="incomes">inkomster</string>
+    <string name="expenses">kostnader</string>
+
+    <string name="add_transaction">Lägg till transaktion</string>
+    <string name="add_transaction_short">Lägg till transaktion</string>
+    <string name="add_category">Lägg till Kategori</string>
+    <string name="edit_transaction">Redigera transaktionen</string>
+    <string name="edit_category">Redigera kategori</string>
+    <string name="add_budget">Lägg till budget</string>
+    <string name="add_budget_short">Lägg till budget</string>
+    <string name="edit_budget">Redigera budget</string>
+    <string name="set_category">Ange kategori</string>
+    <string name="set_budget">Ange budget</string>
+    <string name="set_icon">Ange ikon</string>
+    <string name="no_empty_field">Det här fältet kan inte vara tomt</string>
+
+    <string name="food">Mat</string>
+    <string name="dinner">Restaurang</string>
+    <string name="hobby">Hobby</string>
+    <string name="shopping">Handla</string>
+    <string name="transport">Transport</string>
+</resources>

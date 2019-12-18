@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">बजट प्रबंधन</string>
+
+    <string name="edit">संपादित करें</string>
+    <string name="delete">हटाना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="valid">मान्य</string>
+    <string name="loading">लोड हो रहा है</string>
+
+    <string name="error_occurred">एक त्रुटि पाई गई</string>
+
+    <string name="confirm_deletion_title">% 1 $ s हटाएं?</string>
+    <string name="confirm_transaction_deletion">यह लेनदेन आपके डिवाइस से हटा दिया जाएगा</string>
+    <string name="confirm_category_deletion">यह श्रेणी आपके डिवाइस से हटा दी जाएगी</string>
+    <string name="confirm_budget_deletion">यह बजट आपके डिवाइस से हटा दिया जाएगा</string>
+
+    <string name="no_budget">बजट नहीं</string>
+    <string name="no_transaction">कोई लेन-देन नहीं</string>
+    <string name="no_history">कोई इतिहास नहीं</string>
+
+    <string name="float_value">%1$.2f</string>
+    <string name="budget_of_goal">%1$.2f of %2$.2f</string>
+
+    <string name="title">शीर्षक</string>
+    <string name="color">रंग</string>
+    <string name="icon">चिह्न</string>
+    <string name="description">विवरण</string>
+    <string name="value">मूल्य</string>
+    <string name="category">वर्ग</string>
+    <string name="budgets">बजट</string>
+    <string name="budget">बजट</string>
+    <string name="budget_label">बजट: %1$s</string>
+    <string name="no_default_budget">कोई बजट परिभाषित नहीं है</string>
+    <string name="default_budget">डिफ़ॉल्ट बजट</string>
+
+    <string name="none">कोई नहीं</string>
+    <string name="home">होम</string>
+    <string name="transactions">लेन-देन</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="history">इतिहास</string>
+    <string name="incomes">आय</string>
+    <string name="expenses">व्यय</string>
+
+    <string name="add_transaction">लेन-देन जोड़ें</string>
+    <string name="add_transaction_short">लेन-देन जोड़ें</string>
+    <string name="add_category">कैटेगरी जोड़े</string>
+    <string name="edit_transaction">लेनदेन संपादित करें</string>
+    <string name="edit_category">श्रेणी संपादित करें</string>
+    <string name="add_budget">बजट जोड़ें</string>
+    <string name="add_budget_short">बजट जोड़ें</string>
+    <string name="edit_budget">बजट संपादित करें</string>
+    <string name="set_category">श्रेणी निर्धारित करें</string>
+    <string name="set_budget">बजट निर्धारित करें</string>
+    <string name="set_icon">आइकन सेट करें</string>
+    <string name="no_empty_field">यह स्थान खाली नहीं रह सकता</string>
+
+    <string name="food">भोजन</string>
+    <string name="dinner">खाने की दुकान</string>
+    <string name="hobby">शौक</string>
+    <string name="shopping">खरीदारी</string>
+    <string name="transport">ट्रांसपोर्ट</string>
+</resources>
